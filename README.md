@@ -14,7 +14,7 @@ To empower businesses with robust DevOps practices, automation, and scalable inf
 
 ## 📄 Documentation
 You can explore our detailed guides and documentation here:  
-➡️ [Go to Documentation](./docusaurus/website/docs/)
+➡️ [Go to Documentation](./website/docs/)
 
 ## 📩 Get in Touch
 - **Email**: contact@vteamops.com  
